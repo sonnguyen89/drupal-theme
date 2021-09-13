@@ -17,7 +17,7 @@
 /sites/*/translations
 /sites/*/tmp
 /sites/*/cache
-
+/sites/all/themes/mytheme/node_modules
 # Ignore testing related files
 /sites/simpletest
 
@@ -38,13 +38,7 @@
 /.gitattributes
 /.ht.router.php
 /.htaccess
-/autoload.php
 /example.gitignore
-/index.php
 /INSTALL.txt
-/LICENSE.txt
-/README.txt
-/robots.txt
-/update.php
 /web.config
 /.idea
